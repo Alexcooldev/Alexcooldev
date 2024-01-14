@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit">
@@ -13,7 +13,7 @@
   ---
   
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="250"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400" height="250"/>
 </div>
       
 --- 
